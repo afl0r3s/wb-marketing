@@ -7,6 +7,7 @@ import Content3 from './components/Content/Content3';
 import Content4 from './components/Content/Content4';
 import Content5 from './components/Content/Content5';
 import Content6 from './components/Content/Content6';
+import Footer from './components/footer/Footer';
 
 function App() {
 	return (
@@ -19,6 +20,7 @@ function App() {
 			<Content4 />
 			<Content5 />
 			<Content6 />
+			<Footer />
 		</div>
 	);
 }

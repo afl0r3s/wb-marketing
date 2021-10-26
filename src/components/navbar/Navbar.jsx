@@ -4,7 +4,7 @@ import 'boxicons';
 export default function navbar() {
     return (
             <nav>
-                <div className="logo">GATIEN SALAUN</div>
+                <div className="logo">PROPERTY COMPANY</div>
                 <input type="checkbox" id="check" />
                 <label for="check" className="bar-btn">
                     <box-icon name="menu" type="logo" size="md" color="white" /> 
